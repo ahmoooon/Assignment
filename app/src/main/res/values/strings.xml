@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="userid">Enter your User ID</string>
+    <string name="password">Enter Password</string>
+    <string name="start_screen">Superuser Home Screen\n</string>
+    <string name="create_parent">Create Parent Account\n</string>
+    <string name="create_teach">Create Teacher Account</string>
+    <string name="edit_teach">Edit Teacher Account</string>
+</resources>
